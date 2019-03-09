@@ -67,4 +67,5 @@ if (fkk.content == "#اسئله") {//الامر
     }
 })
 
+
  client.login(process.env.BOT_TOKEN);
