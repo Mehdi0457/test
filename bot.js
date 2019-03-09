@@ -1,4 +1,4 @@
-client.on('message', fkk => {
+   client.on("message", async message => { {
     if (fkk.content == "#اسئله") {//الامر
         var x = ["المتاح للجميع لا يتاح لي",
 "ما هي حاسة الشم عند الثعبان ؟",
