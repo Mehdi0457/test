@@ -62,13 +62,9 @@ if (fkk.content == "#اسئله") {//الامر
         
         r.then((collected)=> {
             fkk.channel.send(`${collected.first().author} :soccer: ** ح معلم كوره ** :soccer: `);
-        })
+       })
         })
     }
-}
-
-                                          
-
-});
+})
 
  client.login(process.env.BOT_TOKEN);
