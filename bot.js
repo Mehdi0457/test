@@ -1,5 +1,5 @@
-   client.on("message", async message => { {
-    if (fkk.content == "#اسئله") {//الامر
+const Discord = require("discord.js");
+if (fkk.content == "#اسئله") {//الامر
         var x = ["المتاح للجميع لا يتاح لي",
 "ما هي حاسة الشم عند الثعبان ؟",
 "ماذا يقول الجدار للجدار؟ ",
